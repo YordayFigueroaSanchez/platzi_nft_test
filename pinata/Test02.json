@@ -1,0 +1,15 @@
+{
+    "name": "Anillo 2",
+    "description": "Segundo anillo de fuerza",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYnx9JYQbs1XwqYkBDNHgkLsz5Z5bcnX1cuUc1uSoTPkK",
+    "attributes": [
+        {
+            "trait-type": "Fase",
+            "value": "2"
+        },
+        {
+            "trait-type": "Type",
+            "value": "Circle"
+        }
+    ]
+}

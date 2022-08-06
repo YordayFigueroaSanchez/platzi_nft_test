@@ -1,0 +1,15 @@
+{
+    "name": "Anillo 3",
+    "description": "Tercer anillo de fuerza",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZNJUkSdsZg52mZ8MZmc4Z2GjEP9zhhXb1cmJunFMoEdK",
+    "attributes": [
+        {
+            "trait-type": "Fase",
+            "value": "3"
+        },
+        {
+            "trait-type": "Type",
+            "value": "Circle"
+        }
+    ]
+}

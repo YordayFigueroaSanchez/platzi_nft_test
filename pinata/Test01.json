@@ -1,0 +1,15 @@
+{
+    "name": "Anillo 1",
+    "description": "Primer anillo de fuerza",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdsSvpJWwD6xvmuGqw2SoJw3wMeEPn1mgXee9g3G1gTZs",
+    "attributes": [
+        {
+            "trait-type": "Fase",
+            "value": "1"
+        },
+        {
+            "trait-type": "Type",
+            "value": "Circle"
+        }
+    ]
+}
